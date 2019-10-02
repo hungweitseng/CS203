@@ -32,7 +32,7 @@ int main(int argc, char **argv)
   }
 //  mm(a, b, c);
   /* Do matrix addition */
-#ifndef COL_MAJOR
+#ifdef A
     for(i = 0; i < ARRAY_SIZE; i++)
     {
       for(j = 0; j < ARRAY_SIZE; j++)
