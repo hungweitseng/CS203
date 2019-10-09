@@ -1,0 +1,4 @@
+#./hybridsort r
+sudo ./clearcache.sh
+./hybridsort_cpu /mnt/seagate/bunny/100000000.bin 100000000
+#/mnt/seagate/htseng3/100000000.bin 100000000

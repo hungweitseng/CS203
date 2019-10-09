@@ -1,0 +1,4 @@
+#./hybridsort r
+#sudo ~/bin/bin/clearcache.sh
+sudo ./clearcache.sh
+./hybridsort /mnt/intel/htseng3/hybridsort/100000000.bin 100000000
